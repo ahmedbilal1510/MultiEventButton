@@ -1,0 +1,12 @@
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\bin\Debug\MuliEvent Ex.exe.config
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\bin\Debug\MuliEvent Ex.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\bin\Debug\MuliEvent Ex.pdb
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\bin\Debug\MuliEvent Ex.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent Ex.vbprojAssemblyReference.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent_Ex.Form1.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent_Ex.Resources.resources
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent Ex.vbproj.GenerateResource.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent Ex.vbproj.CoreCompileInputs.cache
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent Ex.exe
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent Ex.xml
+C:\Users\ahmed\OneDrive\デスクトップ\Visual Studios Solutions\MuliEvent Ex\MuliEvent Ex\obj\Debug\MuliEvent Ex.pdb
